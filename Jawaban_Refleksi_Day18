@@ -1,0 +1,17 @@
+*Pertanyaan Refleksi
+
+1. Setelah menerapkan CSS pada hasil slicing Figma, bagian mana dari proses styling yang paling menantang bagi kamu, dan bagaimana kamu memastikan tampilannya tetap konsisten dengan desain awal?
+
+2. Dalam proses membuat tampilan blog ini, bagaimana kamu menyeimbangkan antara estetika desain dan efisiensi kode CSS agar mudah dipelihara dan dikembangkan?
+
+3. Jika tampilan website ini nantinya perlu dioptimalkan untuk berbagai ukuran layar, langkah apa yang akan kamu lakukan untuk memastikan layout dan elemen tetap proporsional serta nyaman dilihat?
+
+
+
+*Jawaban:
+1. bagian dari proses styling yang paling menantang bagi saya adalah memasukkan background image di page dataScience. Cara saya memastikan tampilannya tetap konsisten dengan desain awal adalah dengan melihat kembali desain figma dan menyesuaikan background-position: menjadi "center" dan background-size: diisi "cover".
+
+2. Dalam proses membuat tampilan blog ini, saya menyeimbangkan antara estetika desain dan efisiensi kode CSS agar mudah dipelihara dan dikembangkan dengan cara menggunakan penamaan class yang sesuai dengan fungsinya dan mudah dipahami.
+
+3. Jika tampilan website ini nantinya perlu dioptimalkan untuk berbagai ukuran layar, langkah yang saya lakukan untuk memastikan layout dan elemen tetap proporsional serta nyaman dilihat, saya akan menggunakan teknik responsive design seperti media queries, flexible grid layout, dan relative units seperti %, em, rem untuk memastikan layout dan elemen tetap proporsional serta nyaman dilihat di berbagai ukuran layar.
+
